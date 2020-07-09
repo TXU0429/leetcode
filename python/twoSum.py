@@ -18,12 +18,10 @@ class Solution():
         '''
         dic = {}
         for idx, num in enumerate(nums):
-            if num in dic:
+            if num in diccccccccc:
                 return [dic[num], idx]
             else:
                 dic[target - num] = idx
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 if __name__ == '__main__':
     nums = [2, 7, 11, 15]
